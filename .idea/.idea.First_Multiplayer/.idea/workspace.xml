@@ -5,8 +5,68 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="97f52194-0a37-42bf-9816-018defcb8c03" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.First_Multiplayer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.First_Multiplayer/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MainMenu.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/MainMenu.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ClienteNetworkTransform.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ClienteNetworkTransform.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Simple Buttons/Buttons Style 4 (Square Pink).meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Simple Buttons/Buttons Style 4 (Square Pink)/ButtonsStyle4_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Simple Buttons/Buttons Style 4 (Square Pink)/ButtonsStyle4_01.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Simple Buttons/Buttons Style 4 (Square Pink)/ButtonsStyle4_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Simple Buttons/Buttons Style 4 (Square Pink)/ButtonsStyle4_02.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Simple Buttons/Buttons Style 4 (Square Pink)/ButtonsStyle4_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Simple Buttons/Buttons Style 4 (Square Pink)/ButtonsStyle4_03.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Simple Buttons/Buttons Style 4 (Square Pink)/ButtonsStyle4_04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Simple Buttons/Buttons Style 4 (Square Pink)/ButtonsStyle4_04.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Simple Buttons/Buttons Style 4 (Square Pink)/ButtonsStyle4_05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Simple Buttons/Buttons Style 4 (Square Pink)/ButtonsStyle4_05.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Simple Buttons/Buttons Style 4 (Square Pink)/ButtonsStyle4_06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Simple Buttons/Buttons Style 4 (Square Pink)/ButtonsStyle4_06.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Simple Buttons/Buttons Style 4 (Square Pink)/ButtonsStyle4_07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Simple Buttons/Buttons Style 4 (Square Pink)/ButtonsStyle4_07.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Simple Buttons/Buttons Style 4 (Square Pink)/ButtonsStyle4_08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Simple Buttons/Buttons Style 4 (Square Pink)/ButtonsStyle4_08.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Simple Buttons/Buttons Style 4 (Square Pink)/ButtonsStyle4_09.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Simple Buttons/Buttons Style 4 (Square Pink)/ButtonsStyle4_09.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Simple Buttons/Buttons Style 4 (Square Pink)/ButtonsStyle4_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Simple Buttons/Buttons Style 4 (Square Pink)/ButtonsStyle4_10.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Simple Buttons/Buttons Style 4 (Square Pink)/ButtonsStyle4_11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Simple Buttons/Buttons Style 4 (Square Pink)/ButtonsStyle4_11.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Simple Buttons/Buttons Style 4 (Square Pink)/ButtonsStyle4_12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Simple Buttons/Buttons Style 4 (Square Pink)/ButtonsStyle4_12.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Simple Buttons/Buttons Style 4 (Square Pink)/ButtonsStyle4_13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Simple Buttons/Buttons Style 4 (Square Pink)/ButtonsStyle4_13.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Simple Buttons/Buttons Style 4 (Square Pink)/ButtonsStyle4_14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Simple Buttons/Buttons Style 4 (Square Pink)/ButtonsStyle4_14.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Simple Buttons/Buttons Style 4 (Square Pink)/ButtonsStyle4_15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Simple Buttons/Buttons Style 4 (Square Pink)/ButtonsStyle4_15.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Simple Buttons/Buttons Style 4 (Square Pink)/ButtonsStyle4_16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Simple Buttons/Buttons Style 4 (Square Pink)/ButtonsStyle4_16.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Simple Buttons/Buttons Style 4 (Square Pink)/ButtonsStyle4_17.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Simple Buttons/Buttons Style 4 (Square Pink)/ButtonsStyle4_17.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Simple Buttons/Buttons Style 4 (Square Pink)/ButtonsStyle4_18.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Simple Buttons/Buttons Style 4 (Square Pink)/ButtonsStyle4_18.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Simple Buttons/Buttons Style 4 (Square Pink)/ButtonsStyle4_19.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Simple Buttons/Buttons Style 4 (Square Pink)/ButtonsStyle4_19.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Simple Buttons/Buttons Style 4 (Square Pink)/ButtonsStyle4_20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Simple Buttons/Buttons Style 4 (Square Pink)/ButtonsStyle4_20.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Simple Buttons/Buttons Style 4 (Square Pink)/ButtonsStyle4_21.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Simple Buttons/Buttons Style 4 (Square Pink)/ButtonsStyle4_21.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Simple Buttons/Buttons Style 4 (Square Pink)/ButtonsStyle4_22.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Simple Buttons/Buttons Style 4 (Square Pink)/ButtonsStyle4_22.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Simple Buttons/Buttons Style 4 (Square Pink)/ButtonsStyle4_23.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Simple Buttons/Buttons Style 4 (Square Pink)/ButtonsStyle4_23.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Simple Buttons/Buttons Style 4 (Square Pink)/ButtonsStyle4_24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Simple Buttons/Buttons Style 4 (Square Pink)/ButtonsStyle4_24.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Simple Buttons/Buttons Style 4 (Square Pink)/ButtonsStyle4_25.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Simple Buttons/Buttons Style 4 (Square Pink)/ButtonsStyle4_25.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Simple Buttons/Buttons Style 4 (Square Pink)/ButtonsStyle4_26.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Simple Buttons/Buttons Style 4 (Square Pink)/ButtonsStyle4_26.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Anton SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Anton SDF.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Bangers SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Bangers SDF.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Electronic Highway Sign SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Electronic Highway Sign SDF.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Oswald Bold SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Oswald Bold SDF.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Roboto-Bold SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Roboto-Bold SDF.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +75,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.netcode.gameobjects@1.9.1/Components/NetworkTransform.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
@@ -28,7 +91,7 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;feat/main-menu&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -100,6 +163,8 @@
       <updated>1723646212352</updated>
       <workItem from="1723646216342" duration="1632000" />
       <workItem from="1723653046046" duration="1644000" />
+      <workItem from="1723817048896" duration="3574000" />
+      <workItem from="1724198556564" duration="320000" />
     </task>
     <servers />
   </component>
